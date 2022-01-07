@@ -70,7 +70,7 @@
                               "@odata.type":  "#microsoft.graph.deviceManagementStringSettingInstance",
                               "id":  "121a9f9f-2bd0-4a3b-a1fb-c70a552591a2",
                               "definitionId":  "deviceConfiguration--windows10EndpointProtectionConfiguration_defenderScriptDownloadedPayloadExecutionType",
-                              "valueJson":  "\"auditMode\"",
+                              "valueJson":  "\"block\"",
                               "value":  "block"
                           },
                           {
